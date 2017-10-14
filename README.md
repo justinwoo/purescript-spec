@@ -16,6 +16,8 @@ in detail how to use purescript-spec. **You should probably start here.**
 
 ## Changelog
 
+* **2.0.0**
+  * _Updated dependencies and Aff to 4.0_
 * **1.0.0**
   * _No additions from 0.14.0._
 * **0.14.0**
